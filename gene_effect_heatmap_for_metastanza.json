@@ -2,14 +2,14 @@
   "x": ["ARID1A", "PTCH2", "MSH6", "IDH1", "D2HGDH", "CTNNB1", "FGFR3", "HTT", "PDGFRA"],
   "y": ["likely_benign", "likely_pathogenic", "ambiguous", "unknown"],
   "z": [
-    [0, 62.38, 0, 0],      // ARID1A → pathogenic
-    [10.04, 0, 0, 0],      // PTCH2 → benign
-    [32.95, 0, 0, 0],      // MSH6 → benign
-    [0, 98.05, 0, 0],      // IDH1 → pathogenic
-    [7.34, 0, 0, 0],       // D2HGDH → benign
-    [0, 99.84, 0, 0],      // CTNNB1 → pathogenic
-    [0, 99.83, 0, 0],      // FGFR3 → pathogenic
-    [7.72, 0, 0, 0],       // HTT → benign
-    [5.92, 0, 0, 0]        // PDGFRA → benign
+    [0, 62.38, 0, 0],      
+    [10.04, 0, 0, 0],      
+    [32.95, 0, 0, 0],     
+    [0, 98.05, 0, 0],     
+    [7.34, 0, 0, 0],      
+    [0, 99.84, 0, 0],     
+    [0, 99.83, 0, 0],      
+    [7.72, 0, 0, 0],       
+    [5.92, 0, 0, 0]        
   ]
 }
