@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ARID1A",
+    "effect": "likely_pathogenic",
+    "score": 0.6238
+  },
+  {
+    "id": "PTCH2",
+    "effect": "likely_benign",
+    "score": 0.1004
+  },
+  {
+    "id": "MSH6",
+    "effect": "likely_benign",
+    "score": 0.3295
+  },
+  {
+    "id": "IDH1",
+    "effect": "likely_pathogenic",
+    "score": 0.9805
+  },
+  {
+    "id": "D2HGDH",
+    "effect": "likely_benign",
+    "score": 0.0734
+  },
+  {
+    "id": "CTNNB1",
+    "effect": "likely_pathogenic",
+    "score": 0.9984
+  },
+  {
+    "id": "FGFR3",
+    "effect": "likely_pathogenic",
+    "score": 0.9983
+  },
+  {
+    "id": "HTT",
+    "effect": "likely_benign",
+    "score": 0.0772
+  },
+  {
+    "id": "PDGFRA",
+    "effect": "likely_benign",
+    "score": 0.0592
+  },
+  {
+    "id": "MCC",
+    "effect": "unknown",
+    "score": 0.5
+  },
+  {
+    "id": "BRPF3",
+    "effect": "likely_benign",
+    "score": 0.0618
+  },
+  {
+    "id": "ARID1B",
+    "effect": "ambiguous",
+    "score": 0.488
+  },
+  {
+    "id": "MET",
+    "effect": "likely_benign",
+    "score": 0.0759
+  },
+  {
+    "id": "SMO",
+    "effect": "likely_pathogenic",
+    "score": 0.9897
+  },
+  {
+    "id": "MYC",
+    "effect": "likely_benign",
+    "score": 0.0717
+  },
+  {
+    "id": "LURAP1L",
+    "effect": "unknown",
+    "score": 0.5
+  },
+  {
+    "id": "NTRK2",
+    "effect": "likely_benign",
+    "score": 0.1145
+  },
+  {
+    "id": "PTCH1",
+    "effect": "likely_benign",
+    "score": 0.1274
+  },
+  {
+    "id": "KLF4",
+    "effect": "unknown",
+    "score": 0.5
+  },
+  {
+    "id": "TSC1",
+    "effect": "likely_benign",
+    "score": 0.1309
+  },
+  {
+    "id": "NOTCH1",
+    "effect": "likely_benign",
+    "score": 0.2977
+  },
+  {
+    "id": "FGFR2",
+    "effect": "ambiguous",
+    "score": 0.4708
+  },
+  {
+    "id": "ZFTA",
+    "effect": "likely_benign",
+    "score": 0.1217
+  },
+  {
+    "id": "KMT2D",
+    "effect": "likely_pathogenic",
+    "score": 0.7303
+  },
+  {
+    "id": "SMARCD1",
+    "effect": "ambiguous",
+    "score": 0.3929
+  },
+  {
+    "id": "PHLDA1",
+    "effect": "unknown",
+    "score": 0.5
+  },
+  {
+    "id": "ATXN2",
+    "effect": "unknown",
+    "score": 0.5
+  },
+  {
+    "id": "HNF1A",
+    "effect": "unknown",
+    "score": 0.5
+  },
+  {
+    "id": "BRCA2",
+    "effect": "likely_benign",
+    "score": 0.0626
+  },
+  {
+    "id": "RB1",
+    "effect": "likely_benign",
+    "score": 0.0768
+  },
+  {
+    "id": "DICER1",
+    "effect": "likely_benign",
+    "score": 0.1116
+  },
+  {
+    "id": "TSC2",
+    "effect": "likely_benign",
+    "score": 0.0794
+  },
+  {
+    "id": "CREBBP",
+    "effect": "ambiguous",
+    "score": 0.3997
+  },
+  {
+    "id": "GSE1",
+    "effect": "unknown",
+    "score": 0.5
+  },
+  {
+    "id": "TP53",
+    "effect": "likely_benign",
+    "score": 0.0724
+  },
+  {
+    "id": "NF1",
+    "effect": "likely_benign",
+    "score": 0.1112
+  },
+  {
+    "id": "PPM1D",
+    "effect": "likely_pathogenic",
+    "score": 0.9929
+  },
+  {
+    "id": "SMARCA4",
+    "effect": "likely_benign",
+    "score": 0.077
+  },
+  {
+    "id": "NOTCH3",
+    "effect": "likely_benign",
+    "score": 0.1792
+  },
+  {
+    "id": "LZTR1",
+    "effect": "ambiguous",
+    "score": 0.4107
+  },
+  {
+    "id": "DDX3X",
+    "effect": "likely_pathogenic",
+    "score": 0.5753
+  },
+  {
+    "id": "ATRX",
+    "effect": "likely_benign",
+    "score": 0.273
+  }
+]
