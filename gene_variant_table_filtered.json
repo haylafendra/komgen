@@ -1,212 +1,44 @@
 [
-  {
-    "id": "ARID1A",
-    "effect": "likely_pathogenic",
-    "score": 0.6238
-  },
-  {
-    "id": "PTCH2",
-    "effect": "likely_benign",
-    "score": 0.1004
-  },
-  {
-    "id": "MSH6",
-    "effect": "likely_benign",
-    "score": 0.3295
-  },
-  {
-    "id": "IDH1",
-    "effect": "likely_pathogenic",
-    "score": 0.9805
-  },
-  {
-    "id": "D2HGDH",
-    "effect": "likely_benign",
-    "score": 0.0734
-  },
-  {
-    "id": "CTNNB1",
-    "effect": "likely_pathogenic",
-    "score": 0.9984
-  },
-  {
-    "id": "FGFR3",
-    "effect": "likely_pathogenic",
-    "score": 0.9983
-  },
-  {
-    "id": "HTT",
-    "effect": "likely_benign",
-    "score": 0.0772
-  },
-  {
-    "id": "PDGFRA",
-    "effect": "likely_benign",
-    "score": 0.0592
-  },
-  {
-    "id": "MCC",
-    "effect": "unknown",
-    "score": 0.5
-  },
-  {
-    "id": "BRPF3",
-    "effect": "likely_benign",
-    "score": 0.0618
-  },
-  {
-    "id": "ARID1B",
-    "effect": "ambiguous",
-    "score": 0.488
-  },
-  {
-    "id": "MET",
-    "effect": "likely_benign",
-    "score": 0.0759
-  },
-  {
-    "id": "SMO",
-    "effect": "likely_pathogenic",
-    "score": 0.9897
-  },
-  {
-    "id": "MYC",
-    "effect": "likely_benign",
-    "score": 0.0717
-  },
-  {
-    "id": "LURAP1L",
-    "effect": "unknown",
-    "score": 0.5
-  },
-  {
-    "id": "NTRK2",
-    "effect": "likely_benign",
-    "score": 0.1145
-  },
-  {
-    "id": "PTCH1",
-    "effect": "likely_benign",
-    "score": 0.1274
-  },
-  {
-    "id": "KLF4",
-    "effect": "unknown",
-    "score": 0.5
-  },
-  {
-    "id": "TSC1",
-    "effect": "likely_benign",
-    "score": 0.1309
-  },
-  {
-    "id": "NOTCH1",
-    "effect": "likely_benign",
-    "score": 0.2977
-  },
-  {
-    "id": "FGFR2",
-    "effect": "ambiguous",
-    "score": 0.4708
-  },
-  {
-    "id": "ZFTA",
-    "effect": "likely_benign",
-    "score": 0.1217
-  },
-  {
-    "id": "KMT2D",
-    "effect": "likely_pathogenic",
-    "score": 0.7303
-  },
-  {
-    "id": "SMARCD1",
-    "effect": "ambiguous",
-    "score": 0.3929
-  },
-  {
-    "id": "PHLDA1",
-    "effect": "unknown",
-    "score": 0.5
-  },
-  {
-    "id": "ATXN2",
-    "effect": "unknown",
-    "score": 0.5
-  },
-  {
-    "id": "HNF1A",
-    "effect": "unknown",
-    "score": 0.5
-  },
-  {
-    "id": "BRCA2",
-    "effect": "likely_benign",
-    "score": 0.0626
-  },
-  {
-    "id": "RB1",
-    "effect": "likely_benign",
-    "score": 0.0768
-  },
-  {
-    "id": "DICER1",
-    "effect": "likely_benign",
-    "score": 0.1116
-  },
-  {
-    "id": "TSC2",
-    "effect": "likely_benign",
-    "score": 0.0794
-  },
-  {
-    "id": "CREBBP",
-    "effect": "ambiguous",
-    "score": 0.3997
-  },
-  {
-    "id": "GSE1",
-    "effect": "unknown",
-    "score": 0.5
-  },
-  {
-    "id": "TP53",
-    "effect": "likely_benign",
-    "score": 0.0724
-  },
-  {
-    "id": "NF1",
-    "effect": "likely_benign",
-    "score": 0.1112
-  },
-  {
-    "id": "PPM1D",
-    "effect": "likely_pathogenic",
-    "score": 0.9929
-  },
-  {
-    "id": "SMARCA4",
-    "effect": "likely_benign",
-    "score": 0.077
-  },
-  {
-    "id": "NOTCH3",
-    "effect": "likely_benign",
-    "score": 0.1792
-  },
-  {
-    "id": "LZTR1",
-    "effect": "ambiguous",
-    "score": 0.4107
-  },
-  {
-    "id": "DDX3X",
-    "effect": "likely_pathogenic",
-    "score": 0.5753
-  },
-  {
-    "id": "ATRX",
-    "effect": "likely_benign",
-    "score": 0.273
-  }
+  {"variant": "chr1:26697287_T>G", "id": "ARID1A", "score": 0.6238},
+  {"variant": "chr1:44823158_C>A", "id": "PTCH2", "score": 0.1004},
+  {"variant": "chr2:47783492_A>C", "id": "MSH6", "score": 0.3295},
+  {"variant": "chr2:208248484_C>T", "id": "IDH1", "score": 0.9805},
+  {"variant": "chr2:241751311_G>A", "id": "D2HGDH", "score": 0.0734},
+  {"variant": "chr3:41233385_C>T", "id": "CTNNB1", "score": 0.9984},
+  {"variant": "chr4:1806305_G>T", "id": "FGFR3", "score": 0.9983},
+  {"variant": "chr4:3074938_A>C", "id": "HTT", "score": 0.0772},
+  {"variant": "chr4:54261247_G>A", "id": "PDGFRA", "score": 0.0592},
+  {"variant": "chr5:113488342_T>C", "id": "MCC", "score": 0.5},
+  {"variant": "chr6:36225279_T>G", "id": "BRPF3", "score": 0.0618},
+  {"variant": "chr6:156935479_A>G", "id": "ARID1B", "score": 0.488},
+  {"variant": "chr7:116700208_A>G", "id": "MET", "score": 0.0759},
+  {"variant": "chr7:129210500_G>T", "id": "SMO", "score": 0.9897},
+  {"variant": "chr8:127738361_G>C", "id": "MYC", "score": 0.0717},
+  {"variant": "chr9:12775890_A>G", "id": "LURAP1L", "score": 0.5},
+  {"variant": "chr9:84670949_C>A", "id": "NTRK2", "score": 0.1145},
+  {"variant": "chr9:95447312_G>A", "id": "PTCH1", "score": 0.1274},
+  {"variant": "chr9:107485788_G>C", "id": "KLF4", "score": 0.5},
+  {"variant": "chr9:132925607_A>T", "id": "TSC1", "score": 0.1309},
+  {"variant": "chr9:136501766_C>T", "id": "NOTCH1", "score": 0.2977},
+  {"variant": "chr10:121551331_C>T", "id": "FGFR2", "score": 0.4708},
+  {"variant": "chr11:63765899_A>C", "id": "ZFTA", "score": 0.1217},
+  {"variant": "chr12:49051215_C>A", "id": "KMT2D", "score": 0.7303},
+  {"variant": "chr12:50087406_C>T", "id": "SMARCD1", "score": 0.3929},
+  {"variant": "chr12:76031172_C>-", "id": "PHLDA1", "score": 0.5},
+  {"variant": "chr12:111598995_GC>-", "id": "ATXN2", "score": 0.5},
+  {"variant": "chr12:120994314_->C", "id": "HNF1A", "score": 0.5},
+  {"variant": "chr13:32340099_C>T", "id": "BRCA2", "score": 0.0626},
+  {"variant": "chr13:48381415_G>A", "id": "RB1", "score": 0.0768},
+  {"variant": "chr14:95124419_G>A", "id": "DICER1", "score": 0.1116},
+  {"variant": "chr16:2088275_C>A", "id": "TSC2", "score": 0.0794},
+  {"variant": "chr16:3731412_T>G", "id": "CREBBP", "score": 0.3997},
+  {"variant": "chr16:85654987_T>G", "id": "GSE1", "score": 0.5},
+  {"variant": "chr17:7676154_G>C", "id": "TP53", "score": 0.0724},
+  {"variant": "chr17:31340628_C>T", "id": "NF1", "score": 0.1112},
+  {"variant": "chr17:60623728_G>A", "id": "PPM1D", "score": 0.9929},
+  {"variant": "chr19:10996246_G>A", "id": "SMARCA4", "score": 0.077},
+  {"variant": "chr19:15174335_G>A", "id": "NOTCH3", "score": 0.1792},
+  {"variant": "chr22:20995871_A>T", "id": "LZTR1", "score": 0.4107},
+  {"variant": "chrX:41344260_C>T", "id": "DDX3X", "score": 0.5753},
+  {"variant": "chrX:77508509_G>A", "id": "ATRX", "score": 0.273}
 ]
